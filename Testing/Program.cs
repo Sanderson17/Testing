@@ -6,6 +6,7 @@ namespace Testing
     {
         public static void Main(string[] args)
         {
+            string username = Console.ReadLine();
             Console.WriteLine("Hello, " + username + " ! "); // Second Commit
 
         }
